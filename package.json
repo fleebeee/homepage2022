@@ -1,0 +1,31 @@
+{
+  "name": "homepage2022",
+  "version": "1.0.0",
+  "description": "Just messing around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleebeee/homepage2022.git"
+  },
+  "author": "Jesse Koivukoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fleebeee/homepage2022/issues"
+  },
+  "homepage": "https://github.com/fleebeee/homepage2022#readme",
+  "devDependencies": {
+    "parcel": "^2.6.0",
+    "prettier": "^2.6.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "localforage": "^1.10.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-router-dom": "^6.4.0-pre.2",
+    "styled-components": "^5.3.5"
+  }
+}
